@@ -14,3 +14,14 @@
 
 <body>
   <h1><?php bloginfo('title'); ?></h1>
+  <nav>
+    <h2>
+      <?php bloginfo('title'); ?>
+      Navigation
+    </h2>
+    <?php wp_nav_menu(  // Used for outputting WP menus.
+      array(  // Associative array of args. 
+        'theme_location' => 'main_menu' // Which menu to display.
+      )
+    ); ?>
+  </nav>
