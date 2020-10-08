@@ -1,2 +1,3 @@
+// <!-- Code was made by following along in class with Warren -->
 // Testing to see if the script is loaded...
 console.info( 'TECHCareers THeme JS: Ready to go!' );

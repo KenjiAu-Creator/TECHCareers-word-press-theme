@@ -1,3 +1,4 @@
+<!-- Code was made by following along in class with Warren -->
 <!DOCTYPE html>
 <html lang="en">
 

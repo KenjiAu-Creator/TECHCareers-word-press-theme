@@ -1,3 +1,4 @@
+<!-- Code was made by following along in class with Warren -->
 <?php get_header(); ?>
 
 <article>

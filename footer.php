@@ -1,3 +1,4 @@
+<!-- Code was made by following along in class with Warren -->
 <nav>
   <h2>Footer Navigation</h2>
   <?php
